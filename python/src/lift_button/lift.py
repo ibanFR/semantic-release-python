@@ -1,3 +1,3 @@
 class Lift:
     def __init__(self):
-        pass
+        self.doors = "CLOSED"

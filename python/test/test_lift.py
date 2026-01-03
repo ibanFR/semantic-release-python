@@ -10,3 +10,7 @@ from lift_button.lift import Lift
 def test_should_create_new_lift():
     lift = Lift()
     assert isinstance(lift, Lift)
+
+def test_doors_should_be_closed_when_lift_is_created():
+    lift = Lift()
+    assert lift.doors == "CLOSED"
