@@ -1,7 +1,7 @@
 [project]
 # Update with your actual project details
 name = "lift_button_ibanfr"
-version = "0.1.0"
+version = "1.0.0"
 # Update with your author details
 authors = [
     { name="Iván Fernández", email="ibanFR@users.noreply.github.com" },
