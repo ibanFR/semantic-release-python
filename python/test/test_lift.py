@@ -14,3 +14,8 @@ def test_should_create_new_lift():
 def test_doors_should_be_closed_when_lift_is_created():
     lift = Lift()
     assert lift.doors == "CLOSED"
+
+def test_should_switch_lights_on_when_button_pressed_and_doors_closed():
+    lift = Lift()
+    lift.press_button()
+    assert lift.lights == "ON"
