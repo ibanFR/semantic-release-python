@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ibanFR/semantic-release-python/compare/v1.0.0...v1.1.0) (2026-01-04)
+
+
+### Features
+
+* Switch ON the lights when button is pressed and doors are CLOSED ([bebdd57](https://github.com/ibanFR/semantic-release-python/commit/bebdd57c851679b468eb65795abe7d9beda75472))
+
 # 1.0.0 (2026-01-03)
 
 
