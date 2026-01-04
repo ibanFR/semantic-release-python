@@ -5,3 +5,6 @@ class Lift:
 
     def press_button(self):
         self.lights = "ON"
+
+    def arrive(self):
+        self.doors = "OPEN"

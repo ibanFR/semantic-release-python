@@ -19,3 +19,9 @@ def test_should_switch_lights_on_when_button_pressed_and_doors_closed():
     lift = Lift()
     lift.press_button()
     assert lift.lights == "ON"
+
+def test_should_open_lift_doors_when_lift_arrives():
+    lift = Lift()
+    lift.press_button()
+    lift.arrive()
+    assert lift.doors == "OPEN"
