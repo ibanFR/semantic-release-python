@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ibanFR/semantic-release-python/compare/v1.1.0...v1.2.0) (2026-01-04)
+
+
+### Features
+
+* open lift doors when lift arrives ([bb63abd](https://github.com/ibanFR/semantic-release-python/commit/bb63abd573dc4d1f7d2a4f16b33c1e9a1bfe2326))
+
 # [1.1.0](https://github.com/ibanFR/semantic-release-python/compare/v1.0.0...v1.1.0) (2026-01-04)
 
 
